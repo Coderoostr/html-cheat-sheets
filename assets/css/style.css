@@ -3,14 +3,6 @@ body {
   color: #444444;
 }
 
-.pre1 {
-  text-align:start ;
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin: 12px 0 10px;
-  font-size: 0, 9em;
-}
-
 a {
   color: #ff6633;
   text-decoration: none;
@@ -524,6 +516,16 @@ section {
 
 .featured-services {
   padding: 0;
+}
+
+.pre1 {
+  border: 1px solid #ff6633;
+  text-align: initial;
+  padding: 10px;
+}
+
+.adapt {
+  white-space: pre-wrap;
 }
 
 .featured-services .icon-box {
