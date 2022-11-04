@@ -4,7 +4,6 @@ body {
 }
 
 a {
-  color: #ff6633;
   text-decoration: none;
 }
 
@@ -543,7 +542,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #16df7e;
+  color: #ff6633;
   font-size: 36px;
 }
 
@@ -660,7 +659,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #16df7e;
+  color: #ff6633;
 }
 
 .portfolio #portfolio-flters {
